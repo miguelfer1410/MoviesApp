@@ -1,0 +1,11 @@
+{
+  "name": "MichMovies",
+  "displayName": "MichMovies",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "8660ba48-b399-4f71-8fa0-9d14fb33ddb6"
+      }
+    }
+  }
+}
